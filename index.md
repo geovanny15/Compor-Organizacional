@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Bienvenidos a la pagina de la materia de comportamiento organizacional
 
-You can use the [editor on GitHub](https://github.com/geovanny15/Compor-Organizacional/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Comunicación organizacional.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Se denomina comunicación organizacional, institucional o corporativa al envió y recepción de información entre individuos o personas relacionadas entre si, que forman o son parte de alguna entidad u organización ya sea empresarial, institucional etc. Con el fin de alcanzar un objetivo determinado.
+La comunicación organizacional va mas allá del simple intercambio de datos o información ya que mediante ella se establecen diferentes tipos de dinámicas que servirán de cooperación, de coordinación y de avance en conjunto que permitirán alcanzar los objetivos que se plantean como organización, aumentando sus niveles de producción, desarrollo y alcance que la organización desea tener. 
+La comunicación organizacional se puede decir que se basa en tres factores que son: 
+•	Carácter social
+•	Carácter disciplinario
+•	Carácter técnico y de actividades
+La importancia de la comunicación organizacional radica en que es un factor clave para la construcción de un clima o ambiente de organización o sea constituir un flujo de información que sirva para mejorar y tomar apuntes de cosas que se puedan cambiar a corto y largo plazo para el bien común de la organización. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geovanny15/Compor-Organizacional/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="Comportamiento-Organizacional"
+  agent-id="640016f6-80f4-48ae-a048-70a8b56c7a90"
+  language-code="es"
+></df-messenger>
