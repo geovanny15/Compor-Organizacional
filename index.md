@@ -16,7 +16,6 @@ La comunicación organizacional se puede decir que se basa en tres factores que 
 La importancia de la comunicación organizacional radica en que es un factor clave para la construcción de un clima o ambiente de organización o sea constituir un flujo de información que sirva para mejorar y tomar apuntes de cosas que se puedan cambiar a corto y largo plazo para el bien común de la organización. 
 
 
-
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   intent="WELCOME"
